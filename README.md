@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Profile views](https://komarev.com/ghpvc/?username=anurag8239&color=blueviolet)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi1403&show_icons=true&theme=tokyonight)](https://github.com/anurag8239/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag8239&show_icons=true&theme=tokyonight)](https://github.com/anurag8239/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anurag8239&theme=tokyonight)](https://github.com/anurag8239/github-readme-stats)
 
